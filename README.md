@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajaynag123
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on web development projects using Mern/python
+- 💞️ I’m looking to collaborate on web development projects using Mern Stack/python
 - 📫 Reach me at ajaynagkaranam@gmail.com
 
 <!---
