@@ -30,7 +30,6 @@ CloudFormation • LocalStack • PostgreSQL • Redis
 |--------|-------|-------------|
 | **Patient Management App** | Spring Boot, React, Kafka, gRPC, AWS | Full-stack microservices project with real-world architecture and deployment. |
 | **Library Admin Dashboard** | Next.js, PostgreSQL, Redis, Auth.js | Admin panel with authentication, filters, and modern UI. |
-| **DevOps Lab** | Docker, AWS, GitHub Actions | Playground for CI/CD, cloud deployments, and IaC experiments. |
 
 > 🔗 Live demos & source code in pinned repos.
 
